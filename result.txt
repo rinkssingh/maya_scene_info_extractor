@@ -1,0 +1,28 @@
+{
+    "References": [
+        "B:/sgt/sgm/UAT_TEST/UAT_2020/assets/floor_01.ma",
+        "B:/sgt/sgm/UAT_TEST/UAT_2020/assets/complie_01.ma",
+        "B:/sgt/sgm/UAT_TEST/UAT_2020/assets/compile_02.ma",
+        "B:/sgt/sgm/UAT_TEST/UAT_2020/assets/complie_03.ma",
+        "B:/sgt/sgm/UAT_TEST/UAT_2020/assets/compile_04.ma",
+        "B:/sgt/sgm/UAT_TEST/UAT_2020/assets/complie_05.ma",
+        "B:/sgt/sgm/UAT_TEST/UAT_2020/assets/complie_06.ma",
+        "B:/sgt/sgm/UAT_TEST/UAT_2020/assets/complie_07.ma",
+        "B:/sgt/sgm/UAT_TEST/UAT_2020/assets/complie_08.ma",
+        "B:/sgt/sgm/UAT_TEST/UAT_2020/assets/complie_09.ma",
+        "B:/sgt/sgm/UAT_TEST/UAT_2020/assets/complie_010.ma",
+        "B:/sgt/sgm/UAT_TEST/UAT_2020/assets/complie_011.ma",
+        "B:/sgt/sgm/UAT_TEST/UAT_2020/assets/complie_012.ma",
+        "B:/sgt/sgm/UAT_TEST/UAT_2020/assets/complie_013.ma",
+        "B:/sgt/sgm/UAT_TEST/UAT_2020/assets/camera/TEST_cam.ma",
+        "B:/sgt/sgm/UAT_TEST/UAT_2020/assets/Light/light.ma"
+    ],
+    "Cameras": [
+        "TEST_cam2",
+        "TEST_cam4"
+    ],
+    "Lights": [
+        "directionalLight1",
+        "directionalLight2"
+    ]
+}
